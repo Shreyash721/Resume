@@ -18,7 +18,7 @@ Computer Science Engineering Undergraduate at GL Bajaj Institute of Technology a
 
 - Assistive Stick for Visually Impaired Person
 - AR Book Explorer
-- Basic projrcts under Skillcraft Technology Intership
+- Basic projects under Skillcraft Technology Intership
 
 ## Resume
 
