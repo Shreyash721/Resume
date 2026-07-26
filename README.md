@@ -24,7 +24,7 @@ Computer Science Engineering Undergraduate at GL Bajaj Institute of Technology a
 
 📄 Latest Resume
 
-- Shreyash_Awasthi_Resume.pdf
+- Shreyash-Awasthi-Resume.pdf
 
 ## Contact
 
